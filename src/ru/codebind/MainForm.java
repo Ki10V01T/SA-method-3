@@ -26,18 +26,13 @@ public class MainForm extends JFrame{
     private MainForm() {
         Init();
 
-        exitButton.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent actionEvent) {
-                System.exit(0);
-            }
-        });
+        exitButton.addActionListener(actionEvent -> System.exit(0));
     }
 
     public static void main(String[] args) throws ClassNotFoundException, UnsupportedLookAndFeelException, InstantiationException, IllegalAccessException {
         UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
 
-        MainForm mf = new MainForm();
+        new MainForm();
 
     }
 }
