@@ -1,8 +1,6 @@
-package ru.codebind;
+package ru.electra;
 
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class MainForm extends JFrame{
 
@@ -16,7 +14,7 @@ public class MainForm extends JFrame{
 
     }
 
-    private void Init(){
+    private void Init() {
         setContentPane(rootPanel);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         pack();
@@ -29,10 +27,14 @@ public class MainForm extends JFrame{
         exitButton.addActionListener(actionEvent -> System.exit(0));
     }
 
+    private void calculator() {
+
+    }
+
     public static void main(String[] args) throws ClassNotFoundException, UnsupportedLookAndFeelException, InstantiationException, IllegalAccessException {
         UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
-
-        new MainForm();
+        new Initializer();
+        //new MainForm();
 
     }
 }
