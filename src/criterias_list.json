@@ -1,0 +1,44 @@
+[
+  {
+    "name": "price"
+    "weight": 5,
+    "direction": "Min",
+    "code": [{
+        "lowCost": 10,
+        "lowerMiddle": 15,
+        "middle": 20,
+        "aboveMiddle": 25,
+        "costly": 30
+      }]
+  },
+  {
+    "name" : "comfort",
+    "weight" : 4,
+    "direction" : "Max",
+    "code" : [{
+      "High" : "Ca",
+      "Medium" : "Cb",
+      "Low" : "Cc"
+      }]
+  },
+  {
+    "name" : "speed",
+    "weight" : 3,
+    "direction" : "Max",
+    "code" : [{
+      "High" : "Va",
+      "Medium" : "Vb",
+      "Low" : "Vc"
+      }]
+  },
+  {
+    "name" : "design",
+    "weight" : 3,
+    "direction" : "Max",
+    "code" : [{
+      "Luxury" : "La",
+      "Business" : "Lb",
+      "Usual" : "Lc"
+      }]
+  }
+]

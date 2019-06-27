@@ -86,7 +86,7 @@ class Initializer {
         }
     }
 
-    public Object getMatrixOfCritAlt(){return this.matrixOfCritAlt;}
+    public Object[][] getMatrixOfCritAlt(){return this.matrixOfCritAlt;}
     public Integer[] getVerticalExampleWeight(){return this.verticalExampleWeight;}
     public String[] getVerticalExampleDirection(){return this.verticalExampleDirection;}
 }

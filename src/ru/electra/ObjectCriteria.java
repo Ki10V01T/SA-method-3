@@ -6,14 +6,15 @@ class ObjectCriteria implements Price, Comfort, Speed, Design {
      * direction направление для каждого критерия (Max/Min)
      */
 
-    private String name, direction;
+    private String direction;
     private Integer weight;
     private Integer price;
     private String comfort, speed, design;
+    private Integer value;
 
 
-    public void setName(String name){
-        this.name = name;
+    public void setValue(Integer value){
+        this.value = value;
     }
 
     public void setWeight(Integer weight){
@@ -45,7 +46,7 @@ class ObjectCriteria implements Price, Comfort, Speed, Design {
     }
 
 
-    public String getName(){return name;}
+    public Integer getValue(){return value;}
     public Integer getWeight(){return weight;}
     public String getDirection(){return direction;}
 

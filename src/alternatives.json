@@ -1,0 +1,142 @@
+[
+  {
+    "name" : "alt1",
+    "price" : 30,
+    "comfort" : "Ca",
+    "speed" : "Va",
+    "design" : "La"
+  },
+  {
+    "name" : "alt2",
+    "price" : 30,
+    "comfort" : "Cb",
+    "speed" : "Va",
+    "design" : "La"
+  },
+  {
+    "name" : "alt3",
+    "price" : 30,
+    "comfort" : "Ca",
+    "speed" : "Vb",
+    "design" : "La"
+  },
+  {
+    "name" : "alt4",
+    "price" : 30,
+    "comfort" : "Ca",
+    "speed" : "Va",
+    "design" : "Lb"
+  },
+  {
+    "name" : "alt5",
+    "price" : 25,
+    "comfort" : "Cb",
+    "speed" : "Va",
+    "design" : "La"
+  },
+  {
+    "name" : "alt6",
+    "price" : 25,
+    "comfort" : "Cb",
+    "speed" : "Vb",
+    "design" : "La"
+  },
+  {
+    "name" : "alt7",
+    "price" : 25,
+    "comfort" : "Cb",
+    "speed" : "Va",
+    "design" : "Lb"
+  },
+  {
+    "name" : "alt8",
+    "price" : 25,
+    "comfort" : "Cb",
+    "speed" : "Vb",
+    "design" : "La"
+  },
+  {
+    "name" : "alt9",
+    "price" : 20,
+    "comfort" : "Ca",
+    "speed" : "Vb",
+    "design" : "Lb"
+  },
+  {
+    "name" : "alt10",
+    "price" : 20,
+    "comfort" : "Cb",
+    "speed" : "Vc",
+    "design" : "Lc"
+  },
+  {
+    "name" : "alt11",
+    "price" : 20,
+    "comfort" : "Ca",
+    "speed" : "Vb",
+    "design" : "Lb"
+  },
+  {
+    "name" : "alt12",
+    "price" : 20,
+    "comfort" : "Cb",
+    "speed" : "Va",
+    "design" : "Lc"
+  },
+  {
+    "name" : "alt13",
+    "price" : 15,
+    "comfort" : "Cb",
+    "speed" : "Vc",
+    "design" : "Lb"
+  },
+  {
+    "name" : "alt14",
+    "price" : 15,
+    "comfort" : "Cc",
+    "speed" : "Vb",
+    "design" : "Lb"
+  },
+  {
+    "name" : "alt15",
+    "price" : 15,
+    "comfort" : "Ca",
+    "speed" : "Vc",
+    "design" : "Lc"
+  },
+  {
+    "name" : "alt16",
+    "price" : 15,
+    "comfort" : "Cb",
+    "speed" : "Va",
+    "design" : "Lc"
+  },
+  {
+    "name" : "alt17",
+    "price" : 10,
+    "comfort" : "Ca",
+    "speed" : "Vc",
+    "design" : "Lc"
+  },
+  {
+    "name" : "alt18",
+    "price" : 10,
+    "comfort" : "Cb",
+    "speed" : "Vc",
+    "design" : "Lb"
+  },
+  {
+    "name" : "alt19",
+    "price" : 10,
+    "comfort" : "Cb",
+    "speed" : "Vc",
+    "design" : "Lc"
+  },
+  {
+    "name" : "al20",
+    "price" : 10,
+    "comfort" : "Cc",
+    "speed" : "Vc",
+    "design" : "Lc"
+  }
+]
